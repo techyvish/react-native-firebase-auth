@@ -1,0 +1,3 @@
+rootProject.name = 'RNFBAuth'
+
+include ':app'
